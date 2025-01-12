@@ -1,0 +1,8 @@
+# Plugin yang perlu di install menggunakan pip install
+
+streamlit==1.40.0
+scikit-learn==1.5.2
+seaborn==0.12.2
+kneed==0.8.5
+folium==0.14.0
+matplotlib==3.6.2
